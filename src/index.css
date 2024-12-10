@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header-button {
+  margin-right: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.main-box {
+  padding-top: 10px;
+}
+
+.modal-box {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  right: 5%;
+  bottom: 5%;
+  padding: 20px;
+  background-color: #FFF;
+  border: 2px solid #000;
+  overflow: auto;
+}
